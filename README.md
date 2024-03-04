@@ -26,6 +26,9 @@ To dive into the Arduino Morse Code Communicator project, you'll need an Arduino
 2. Upload the provided sketch to your Arduino board using the Arduino IDE.
 3. Start sending Morse code messages by pressing the button to play, and adjust the speed with the potentiometer as desired.
 
+## Next Steps
++ I wanted to write a NeoVim script to uplaod the current buffer to the board over serial, but Mr. Thorp told me it was ode.
++ This was also my biggest obstacle. Kept it simple with this one
 
 
 ## License
